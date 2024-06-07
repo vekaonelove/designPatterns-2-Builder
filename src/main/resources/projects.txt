@@ -1,0 +1,5 @@
+WebsiteRedesign; DesignMockup; CodeHomepage; CodeContactPage; TestWebsite
+MarketingCampaign; ResearchCompetitors; CreateAdCopy; DesignAds; LaunchCampaign
+ProductLaunch; FinalizeProduct; PlanLaunchEvent; SendInvitations; LaunchProduct
+SoftwareDevelopment; RequirementGathering; Designing; Coding; Testing; Deployment
+EventManagement; VenueSelection; InvitationDesign; GuestListPreparation; EventExecution
